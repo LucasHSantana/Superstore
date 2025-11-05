@@ -61,7 +61,7 @@ O projeto foi desenvolvido para demonstrar habilidades práticas em:
 - **Python 3**
 - **Pandas / NumPy**
 - **Matplotlib / Plotly Express**
-- **boto3** (para conexão com AWS S3
+- **Boto3** (para conexão com AWS S3)
 - **SQLite** (para armazenamento dos dados tratados)
 - **Jupyter Notebook**
 
